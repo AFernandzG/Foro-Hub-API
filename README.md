@@ -1,8 +1,20 @@
 # ForoHub API 📚
+<p align="center"> 
+</p>
+
 <p align="left">
    <img src="https://img.shields.io/github/stars/AFernandzG?style=social">
-   </p>
-¡Bienvenido a ForoHub API! Esta aplicación es una API RESTful para gestionar foros de discusión, permitiendo la creación, actualización y eliminación de temas y respuestas.
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=TERMINADO&color=ORANGE&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/language-Java-007396?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/framework-Spring%20Boot-6DB33F?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/database-MySQL-4479A1?style=for-the-badge"/> 
+</p>
+
+## Descripción del Proyecto
+
+Esta aplicación es una API RESTful desarrollada como parte del desafío final del programa Oracle Next Education junto con Alura LATAM. ForoHub permite la gestión completa de foros de discusión, permitiendo a los usuarios realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre temas y respuestas.
+
+Además, ForoHub incorpora un sistema robusto de autenticación y autorización para restringir el acceso a la información, garantizando la seguridad y privacidad de los datos. La aplicación utiliza una base de datos para la persistencia de datos y sigue las mejores prácticas del modelo REST, asegurando un diseño eficiente y escalable.
 
 ---
 
@@ -27,7 +39,7 @@ src
      └── java/com/alura/foro/hub/api          -> Units Test and Integration.
 ```
 ## Requisitos 📋
-- **Java 11 o superior**
+- **Java 17 o superior**
 - **Spring Boot**
 - **Hibernate**
 - **Flyway** (opcional para migraciones de base de datos)
@@ -126,5 +138,10 @@ src
 
 ---
 **¡Gracias por usar ForoHub API! Si tienes alguna pregunta o sugerencia, no dudes en contactar.** 😊
+
+---
+## ✒️ Autores 
+
+[<img src="https://avatars.githubusercontent.com/u/173502397?s=400&u=c06b4e605c8212c5e9640a90ded8fd7ba11b6d3f&v=4" width=115><br><sub>Antonio Fernandez</sub>](https://github.com/AFernandzG)
 
 ---
